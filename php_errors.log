@@ -1,0 +1,100 @@
+[06-Jun-2018 15:53:54 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 15:53:54 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 16:00:41 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 16:00:41 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 17:53:42 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:53:42 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 17:53:48 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:53:48 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 17:57:51 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:57:51 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 14:57:52 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to NunoMaduro\Collision\Highlighter::highlight() must be of the type string, null given, called in C:\www\teste\vendor\nunomaduro\collision\src\Writer.php on line 217 and defined in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php:57
+Stack trace:
+#0 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(217): NunoMaduro\Collision\Highlighter->highlight(NULL, 0)
+#1 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(105): NunoMaduro\Collision\Writer->renderEditor(Object(Whoops\Exception\Frame))
+#2 C:\www\teste\vendor\nunomaduro\collision\src\Handler.php(48): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#3 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(272): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#4 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(353): Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#5 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(382): Whoops\ in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php on line 57
+[06-Jun-2018 17:58:17 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:58:17 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 17:58:32 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:58:32 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 17:58:40 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 17:58:40 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:03:21 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:03:21 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:03:40 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:03:40 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:18:50 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:18:50 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:13 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:13 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 15:19:13 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to NunoMaduro\Collision\Highlighter::highlight() must be of the type string, null given, called in C:\www\teste\vendor\nunomaduro\collision\src\Writer.php on line 217 and defined in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php:57
+Stack trace:
+#0 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(217): NunoMaduro\Collision\Highlighter->highlight(NULL, 0)
+#1 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(105): NunoMaduro\Collision\Writer->renderEditor(Object(Whoops\Exception\Frame))
+#2 C:\www\teste\vendor\nunomaduro\collision\src\Handler.php(48): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#3 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(272): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#4 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(353): Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#5 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(382): Whoops\ in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php on line 57
+[06-Jun-2018 18:19:26 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:26 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:33 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:33 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:19:43 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:43 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:43 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:49 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:26:49 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:29 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:29 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:35 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:35 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:43 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:48 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:48 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:56 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:27:56 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 18:35:59 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 18:35:59 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 19:57:56 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:57:56 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 19:58:02 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:58:02 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 16:58:03 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to NunoMaduro\Collision\Highlighter::highlight() must be of the type string, null given, called in C:\www\teste\vendor\nunomaduro\collision\src\Writer.php on line 217 and defined in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php:57
+Stack trace:
+#0 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(217): NunoMaduro\Collision\Highlighter->highlight(NULL, 0)
+#1 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(105): NunoMaduro\Collision\Writer->renderEditor(Object(Whoops\Exception\Frame))
+#2 C:\www\teste\vendor\nunomaduro\collision\src\Handler.php(48): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#3 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(272): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#4 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(353): Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#5 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(382): Whoops\ in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php on line 57
+[06-Jun-2018 19:59:05 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:05 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 16:59:05 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to NunoMaduro\Collision\Highlighter::highlight() must be of the type string, null given, called in C:\www\teste\vendor\nunomaduro\collision\src\Writer.php on line 217 and defined in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php:57
+Stack trace:
+#0 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(217): NunoMaduro\Collision\Highlighter->highlight(NULL, 0)
+#1 C:\www\teste\vendor\nunomaduro\collision\src\Writer.php(105): NunoMaduro\Collision\Writer->renderEditor(Object(Whoops\Exception\Frame))
+#2 C:\www\teste\vendor\nunomaduro\collision\src\Handler.php(48): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#3 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(272): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#4 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(353): Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#5 C:\www\teste\vendor\filp\whoops\src\Whoops\Run.php(382): Whoops\ in C:\www\teste\vendor\nunomaduro\collision\src\Highlighter.php on line 57
+[06-Jun-2018 19:59:30 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:30 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:43 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:43 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:53 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 19:59:53 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:27 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:27 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:37 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:37 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:44 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 20:00:44 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[06-Jun-2018 20:01:55 UTC] PHP Warning:  Module 'openssl' already loaded in Unknown on line 0
+[06-Jun-2018 20:01:55 UTC] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0

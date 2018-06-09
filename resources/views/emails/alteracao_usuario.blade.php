@@ -1,0 +1,1 @@
+<h3>Olá, {{$user->name}}, seu cadastro foi modificado</h3>
